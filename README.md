@@ -16,11 +16,12 @@
 </a>
 <br/>
 <br/>
-Hi, I'm **Sumaya Távora**, a **software development student**, at the UNIP, finalist for the 2016 Brasil Criativo award, with the SP Patrimônio project, i live  São Paulo.
+Hi, I'm  **Sumaya Távora**, a  **software development student**,  at the UNIP, finalist for the 2016 Brasil Criativo award, with the SP Patrimônio project, i live  São Paulo.
 🚀 I have also lectured at Anhembi Morumbi in the Architecture and Urbanism course: Project "SP Patrimônio - Collaborative map of the historical heritage of São Paulo"
-
+<br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/oZKuC9DJUK2yc/giphy.gif"/>
 
+  
 **My personal interests:**
 
 * 💼 I 'm currently studying a Bachelor's Degree in Analysis and Systems Development
