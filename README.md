@@ -1,6 +1,6 @@
 
 
-### Hey! I'm [sumayatavora!](https://sumayatavora.github.io/portifolio/)👋
+### Hey! I'm [Sumaya Tavora!](https://sumayatavora.github.io/portifolio/)👋
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumayatavora" alt="Sumaya Távora" /> </p>
